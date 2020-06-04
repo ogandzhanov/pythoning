@@ -1,0 +1,7 @@
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3/tutorial/controlflow.html#if-statements
+https://pythonworld.ru/osnovy/cikly-for-i-while-operatory-break-i-continue-volshebnoe-slovo-else.html
+https://docs.python.org/3/library/string.html#string-formatting
+https://docs.python.org/3/library/stdtypes.html#range
+https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html
