@@ -1,4 +1,6 @@
-# pythoning
+# This is 2dn homework of the Phyton course from http://dswz.ru
+# Using "try" and "for" 
+# 
 # Спросим число
 s = None
 s = input("Введите число, для которого надо вычислить факториал:")

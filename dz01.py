@@ -1,3 +1,6 @@
+# This is 1st homework of the Phyton course from http://dswz.ru
+# Using "input", "print", "if" and "while"
+#
 i = 1
 while i	>= 1:
     print("\nИтерация", i, ". Скажите, кто вы?")
