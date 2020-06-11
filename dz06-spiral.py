@@ -1,6 +1,7 @@
 # This is 6th homework of the Phyton course from http://dswz.ru
 #
 # Using nested list and doctest
+# Example of the expected output https://sun9-67.userapi.com/7zw05GX5TnCbx4gLWoaYhB-i-KuspEKuAJotag/tdapReOdeh0.jpg
 
 def print_board(n):
     """
