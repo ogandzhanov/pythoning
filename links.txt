@@ -5,3 +5,4 @@ https://docs.python.org/3/library/string.html#string-formatting
 https://docs.python.org/3/library/stdtypes.html#range
 https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
 https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html
+https://docs.python.org/3/library/stdtypes.html

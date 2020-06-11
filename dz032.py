@@ -4,7 +4,7 @@
 from dz031 import my_age as my_fun
 s = input("Введите свой возраст:")
 try:
-  n = int(s)
+  n = float(s)
 except ValueError:
   print('Это не число, так не бывает.')
 except Exception:
