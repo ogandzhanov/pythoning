@@ -77,4 +77,3 @@ for a in range (1,GRIDSIZE+1):
         if found == False:
             s = s + "-  "
     print(s)
-
